@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-29T16:17:52Z" name="Default suite" finished-at="2023-06-29T16:20:03Z" duration-ms="131278">
+    <groups>
+    </groups>
+    <test started-at="2023-06-29T16:17:52Z" name="Default test" finished-at="2023-06-29T16:20:03Z" duration-ms="131278">
+      <class name="com.ECartAID.TestCases.SliderCarouseTestCases">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:17:52Z" name="init" finished-at="2023-06-29T16:18:19Z" duration-ms="27141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="VerifyCrousel()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:19Z" name="VerifyCrousel" finished-at="2023-06-29T16:18:22Z" duration-ms="2703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCrousel -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:22Z" name="teardown" finished-at="2023-06-29T16:18:24Z" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:24Z" name="init" finished-at="2023-06-29T16:18:46Z" duration-ms="22300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testMoveSliderCarouselNext()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:46Z" name="testMoveSliderCarouselNext" finished-at="2023-06-29T16:18:46Z" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveSliderCarouselNext -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:46Z" name="teardown" finished-at="2023-06-29T16:18:50Z" duration-ms="3152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:18:50Z" name="init" finished-at="2023-06-29T16:19:05Z" duration-ms="15577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testMoveSliderCarouselPrevious()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:05Z" name="testMoveSliderCarouselPrevious" finished-at="2023-06-29T16:19:06Z" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveSliderCarouselPrevious -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:06Z" name="teardown" finished-at="2023-06-29T16:19:07Z" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:07Z" name="init" finished-at="2023-06-29T16:19:27Z" duration-ms="20616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testSliderCarouselDisplayed()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:27Z" name="testSliderCarouselDisplayed" finished-at="2023-06-29T16:19:28Z" duration-ms="979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSliderCarouselDisplayed -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:28Z" name="teardown" finished-at="2023-06-29T16:19:30Z" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:30Z" name="init" finished-at="2023-06-29T16:19:45Z" duration-ms="14939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testMoveSliderCarouselNextMultipleTimes()[pri:1, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:45Z" name="testMoveSliderCarouselNextMultipleTimes" finished-at="2023-06-29T16:19:46Z" duration-ms="1539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveSliderCarouselNextMultipleTimes -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:46Z" name="teardown" finished-at="2023-06-29T16:19:48Z" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:19:48Z" name="init" finished-at="2023-06-29T16:20:00Z" duration-ms="11879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testMoveSliderCarouselPreviousMultipleTimes()[pri:2, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:20:00Z" name="testMoveSliderCarouselPreviousMultipleTimes" finished-at="2023-06-29T16:20:01Z" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMoveSliderCarouselPreviousMultipleTimes -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ECartAID.TestCases.SliderCarouseTestCases@c430e6c]" started-at="2023-06-29T16:20:01Z" name="teardown" finished-at="2023-06-29T16:20:03Z" duration-ms="1882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ECartAID.TestCases.SliderCarouseTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
